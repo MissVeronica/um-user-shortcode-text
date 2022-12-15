@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Ultimate Member - User Meta Shortcode Text
- * Description: Adds a shortcode functionality to render User Meta data in Pages/Posts returning text 
+ * Description: Adds a shortcode functionality to render User Meta data in Pages/Posts returning conditional text 
  * Version:          1.0.0
  * Requires PHP:     7.4
  * Author:           Miss Veronica
