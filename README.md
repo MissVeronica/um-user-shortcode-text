@@ -9,7 +9,7 @@ Leave user_id empty if you want to retrieve the current user's meta value for th
 
 meta_key is the field name that you've set in the UM form builder
 
-meta_value is the conditional value for displaying text
+meta_value is the conditional value for displaying conditional text
 
 You can modify the returned conditional text with the filter hook <code>'um_user_shortcode_text_filter__{$meta_key}'</code>
  
