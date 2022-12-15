@@ -7,7 +7,7 @@ Returns a conditional text if user meta value condition is true.
 ## Usage 
 <code>[um_user_text user_id="" meta_key="" meta_value="" ]Conditional text[/um_user_text] </code>
 
-Leave user_id empty if you want to retrieve the current user's meta value.
+Leave user_id empty if you want to retrieve the current user's meta value for the conditional test.
 
 meta_key is the field name that you've set in the UM form builder
 
