@@ -1,6 +1,4 @@
-# UM User Shortcode Text
-
-
+# UM User Shortcode Conditional Text
 
 Returns a conditional text if user meta value condition is true.
 
